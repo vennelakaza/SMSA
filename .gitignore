@@ -1,0 +1,10 @@
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+# large datasets / videos stay out of the repo
+data/*.csv
+*.mp4
